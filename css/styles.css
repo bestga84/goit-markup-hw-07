@@ -1,9 +1,9 @@
-:root {
+/* :root {
     --primary-color-font: #212121;
     --second-color-font: #2196F3;
     --color-logo: #000000;
     --paragraph-color-font: #757575;
-    --hero-color-font: #FFFFFF;               /* tomato;*/
+    --hero-color-font: #FFFFFF;
     --footer-color-font: rgba(255, 255, 255, 0.6);
     --hero-footer-color: #2F303A;
     --comand-color: #F5F4FA;
@@ -14,7 +14,7 @@
 
     --primary-font: "Roboto", sans-serif;
     --second-font: "Raleway", sans-serif;
-}
+} */
 
 
 /* =====Home work # 3===== */
@@ -109,7 +109,7 @@ ol {
     background-color: var(--hero-color-font);
 }
 
-.visually-hidden {
+/* .visually-hidden {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -121,7 +121,7 @@ ol {
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
-}
+} */
 
 .logo-margin {
     margin-right: 93px;
