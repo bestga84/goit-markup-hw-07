@@ -94,6 +94,7 @@ ol {
 
 .section-about {
     padding-top: 94px;
+    background-color: var(--hero-color-font);   /* +++++ */
 }
 
 .section {
@@ -134,16 +135,16 @@ ol {
 }
 
 
-.buzy-flex {
+.section-about__list {
     display: flex;
     flex-wrap: wrap;  
 }
 
-.buzy-flex > .item {
+.section-about__item {
     flex-basis: calc((100% - 30px*3) / 4);
 }
 
-.buzy-flex > .item:not(:nth-child(4n)) {
+.section-about__item:not(:nth-child(4n)) {
     margin-right: 30px;
 }
 
