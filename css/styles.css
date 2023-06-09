@@ -461,11 +461,13 @@ ol {
 
 /* Main */
 
-.description-buzy {
+.section-about__description {
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
+
+    color: var(--paragraph-color-font);
 }
 
 .description-profeshion {
@@ -671,7 +673,7 @@ ol {
 
 
 
-.main-buzy {
+.section-about__title {
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
