@@ -42,15 +42,12 @@ ol {
     padding-right: 15px;
     margin-left: auto;
     margin-right: auto;
-
-    /* background-color: yellow; */
 }
 
 
 .header-container {
     display: flex;
     align-items: center;
-    /* min-height: 32px; */
 }
 
 
@@ -324,13 +321,7 @@ ol {
 
     background: #2196F3;
     border-radius: 2px;
-    /* transform: scaleX(0);
-    transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1); */
 }
-/* .menu-link:hover::after,
-.menu-link:focus::after {
-    transform: scaleX(1);
-} */
 
 .logo,
 .logo-part {
@@ -406,8 +397,6 @@ ol {
 .portfolio-bg-color,
 .portfolio-fon {
     background-color: var(--hero-color-font);
-
-    /* background-color: tomato; */
 }
 
 .header-bg-color {
@@ -418,8 +407,6 @@ ol {
 .portfolio-bg-color,
 .portfolio-fon {
     background-color: var(--hero-color-font);
-
-    /* background-color: tomato; */
 }
 
 .hero-text {
@@ -572,7 +559,6 @@ ol {
 .company-flex > .icon-client-list {
     flex-basis: calc((100% - 30px*5) / 6);
     margin-top: 0px;
-    /* border: 1px solid var(--border-client); */
     border-radius: 4px;
     height: 92px;
 }
@@ -601,7 +587,6 @@ ol {
 .client-hover-focus:hover,
 .client-hover-focus:focus {
     border: 1px solid var(--second-color-font);
-    /* cursor: pointer; */
 }
 .client-hover-focus:hover  .icon-client,
 .client-hover-focus:focus  .icon-client {
