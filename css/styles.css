@@ -18,7 +18,7 @@
 
 
 /* =====Home work # 3===== */
-h1,
+/* h1,
 h2,
 h3,
 h4,
@@ -34,15 +34,15 @@ ol {
   margin-top: 0;
   margin-bottom: 0;
   padding-left: 0;
-}
+} */
 
-.container {
+/* .container {
     width: 1200px;
     padding-left: 15px;
     padding-right: 15px;
     margin-left: auto;
     margin-right: auto;
-}
+} */
 
 
 .header-container {
@@ -210,16 +210,16 @@ ol {
     flex-wrap: wrap;
 }
 
-.section-buzy__list > .section-buzy__item {
+.section-buzy__item {
     flex-basis: calc((100% - 30px*2) / 3);
     margin-bottom: 30px;
 }
 
-.section-buzy__list > .section-buzy__item:not(:nth-child(3n)) {
+.section-buzy__item:not(:nth-child(3n)) {
     margin-right: 30px;
 }
 
-.section-buzy__list > .section-buzy__item:nth-last-child(-n + 3) {
+.section-buzy__item:nth-last-child(-n + 3) {
     margin-bottom: 0;
 }
 
@@ -288,19 +288,19 @@ ol {
 
 
 
-.list {
+/* .list {
     list-style: none;    
 }
 
 .link {
     text-decoration: none;
-  }
+  } */
 
-.body {
+/* .body {
     color: var(--primary-color-font);
 
     font-family: var(--primary-font);
-}
+} */
 
 /* Navigation */
 
