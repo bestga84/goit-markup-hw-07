@@ -1,0 +1,62 @@
+.comand-bg-color {
+    background-color: var(--comand-color);
+}
+
+.team-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.team-flex > .person-flex {
+    flex-basis: calc((100% - 30px*3) / 4);
+    margin-top: 0px;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
+}
+
+.team-flex > .person-flex:not(:nth-child(4n+1)) {
+    margin-left: 30px;
+}
+
+.team-flex > .person-flex:nth-child(n + 5) {
+    margin-top: 30px;
+}
+
+.pesron-bg-color {
+    background-color: var(--hero-color-font);
+}
+
+.person-img {
+    display: block;
+    padding-bottom: 0;
+    max-width: 368px;
+}
+
+.card-content {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.name-person {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.19;
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    margin-bottom: 10px;
+}
+
+.paragraph-text {
+    color: var(--paragraph-color-font);
+}
+
+.description-profeshion {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.19;
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    margin-bottom: 16px;
+}

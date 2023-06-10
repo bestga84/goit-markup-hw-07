@@ -169,7 +169,7 @@ ol {
 } */
 
 /* .section-buzy__image, */
-.person-img,
+/* .person-img, */
 .portfolio-img {
     display: block;
     padding-bottom: 0;
@@ -250,7 +250,7 @@ ol {
 /* ==== Кінець написів в секції "Чим ми займаємось" ==== */
 
 
-.team-flex {
+/* .team-flex {
     display: flex;
     flex-wrap: wrap;
 }
@@ -268,7 +268,7 @@ ol {
 
 .team-flex > .person-flex:nth-child(n + 5) {
     margin-top: 30px;
-}
+} */
 
 
 .btn-flex-portfolio {
@@ -361,9 +361,9 @@ ol {
 } */
 
 /* .mail-tel-text, */
-.paragraph-text {
+/* .paragraph-text {
     color: var(--paragraph-color-font);
-}
+} */
 
 
 /* ==== Іконка в навігації ==== Початок */
@@ -406,7 +406,7 @@ ol {
     border-bottom: 1px solid #ECECEC;;
 } */
 
-.pesron-bg-color,
+/* .pesron-bg-color, */
 .portfolio-bg-color,
 .portfolio-fon {
     background-color: var(--hero-color-font);
@@ -472,7 +472,7 @@ ol {
     color: var(--paragraph-color-font);
 } */
 
-.description-profeshion {
+/* .description-profeshion {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.19;
@@ -480,15 +480,15 @@ ol {
     letter-spacing: 0.03em;
 
     margin-bottom: 16px;
-}
+} */
 
-.card-content {
+/* .card-content {
     padding-top: 30px;
     padding-bottom: 30px;
-}
+} */
 
 
-.name-person {
+/* .name-person {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.19;
@@ -496,7 +496,7 @@ ol {
     letter-spacing: 0.03em;
 
     margin-bottom: 10px;
-}
+} */
 
 /* .main-h-title {
     font-weight: 700;
@@ -694,9 +694,9 @@ ol {
     margin-bottom: 10px;
 } */
 
-.comand-bg-color {
+/* .comand-bg-color {
     background-color: var(--comand-color);
-}
+} */
 
 /* Footer */
 
