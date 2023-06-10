@@ -51,12 +51,12 @@ ol {
 } */
 
 
-.hero-padding {
+/* .hero-padding {
     padding-top: 200px;
     padding-bottom: 200px;
-}
+} */
 
-.hero-color-bg {
+/* .hero-color-bg {
     max-width: 1600px;
     max-height: 600px;
     background-image: linear-gradient( rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4) ), url(../images/hero/img.jpg);    
@@ -64,15 +64,14 @@ ol {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-}
+} */
 
-.hero-title {
+/* .hero-title {
     display: block;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-
-}
+} */
 
 /* .btn-box {
     box-sizing: border-box;
