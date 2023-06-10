@@ -37,6 +37,11 @@
   margin-right: auto;
 }
 
+.section {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
 .body {
   color: var(--primary-color-font);
   font-family: var(--primary-font);
@@ -549,6 +554,21 @@ ol {
   color: var(--primary-color-font);
 }
 
+.mail-tel-text {
+  display: flex;
+  align-items: center;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+.nav-text,
+.mail-tel-text {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+}
+
 /* ==== Іконка в навігації ==== */
 .nav-icon {
   fill: currentColor;
@@ -638,11 +658,6 @@ ol {
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--paragraph-color-font);
-}
-
-.section {
-  padding-top: 94px;
-  padding-bottom: 94px;
 }
 
 .section-buzy {
