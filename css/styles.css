@@ -132,10 +132,10 @@ ol {
     margin-left: 0;
 } */
 
-.logo-footer {
+/* .logo-footer {
     display: inline-block;
     margin-bottom: 28px;
-}
+} */
 
 
 /* .section-about__list {
@@ -384,15 +384,15 @@ ol {
 }
 
 /* .hero-color-text, */
-.logo-second,
+/* .logo-second,
 .text-addres {
     color: var(--hero-color-font);
-}
+} */
 
 
-.mail-tel {
+/* .mail-tel {
     margin-top: 12px;
-}
+} */
 
 
 /* .header-bg-color, */
@@ -452,14 +452,14 @@ ol {
     max-width: 1600px;
 }
 
-.footer-color {
+/* .footer-color {
     background-color: var(--hero-footer-color);
-}
+} */
 
-.footer-padding {
+/* .footer-padding {
     padding-top: 60px;
     padding-bottom: 60px;
-}
+} */
 
 /* Main */
 
@@ -700,18 +700,18 @@ ol {
 
 /* Footer */
 
-.mail-tel-footer {
+/* .mail-tel-footer {
     color: var(--footer-color-font);
-}
+} */
 
-.text-addres,
+/* .text-addres,
 .mail-tel-footer {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
-}
+} */
 
 /*================*/
 /* Portfolio page */
@@ -819,16 +819,16 @@ ol {
 }
 
 
-.container-footer {
+/* .container-footer {
     display: flex;
     align-items: baseline;
-}
+} */
 
-.footer-address-width {
+/* .footer-address-width {
     margin-right: 25px;
-}
+} */
 
-.footer-add {
+/* .footer-add {
     font-family: var(--primary-font);
     font-weight: 700;
     font-size: 14px;
@@ -838,11 +838,11 @@ ol {
     color: var(--hero-color-font);
 
     margin-bottom: 20px;
-}
+} */
 
-.margin-footer {
+/* .margin-footer {
     margin-left: auto;
-}
+} */
 
 
 
