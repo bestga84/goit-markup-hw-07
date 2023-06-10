@@ -91,10 +91,10 @@ ol {
 } */
 
 
-.section-about {
+/* .section-about {
     padding-top: 94px;
-    background-color: var(--hero-color-font);   /* +++++ */
-}
+    background-color: var(--hero-color-font);
+} */
 
 .section {
     padding-top: 94px;
@@ -138,21 +138,21 @@ ol {
 }
 
 
-.section-about__list {
+/* .section-about__list {
     display: flex;
     flex-wrap: wrap;  
-}
+} */
 
-.section-about__item {
+/* .section-about__item {
     flex-basis: calc((100% - 30px*3) / 4);
 }
 
 .section-about__item:not(:nth-child(4n)) {
     margin-right: 30px;
-}
+} */
 
 
-.section-about__icon {
+/* .section-about__icon {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -166,7 +166,7 @@ ol {
 .section-about__icon-image {
     width: 70px;
     height: 70px;
-}
+} */
 
 .section-buzy__image,
 .person-img,
@@ -463,14 +463,14 @@ ol {
 
 /* Main */
 
-.section-about__description {
+/* .section-about__description {
     font-weight: 400;
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
 
     color: var(--paragraph-color-font);
-}
+} */
 
 .description-profeshion {
     font-weight: 400;
@@ -684,7 +684,7 @@ ol {
 
 
 
-.section-about__title {
+/* .section-about__title {
     font-weight: 700;
     font-size: 14px;
     line-height: 1.14;
@@ -692,7 +692,7 @@ ol {
     text-transform: uppercase;
 
     margin-bottom: 10px;
-}
+} */
 
 .comand-bg-color {
     background-color: var(--comand-color);
