@@ -74,12 +74,12 @@ ol {
 
 }
 
-.btn-box {
+/* .btn-box {
     box-sizing: border-box;
     min-width: 200px;
     min-height: 50px;
     border-radius: 4px;
-}
+} */
 
 .navigation-list {
     display: flex;
@@ -430,7 +430,7 @@ ol {
     margin-right: auto;
 } */
 
-.hero-btn {
+/* .hero-btn {
     background-color: var(--second-color-font);
 
     font-weight: 700;
@@ -439,7 +439,7 @@ ol {
     align-items: center;
     text-align: center;
     letter-spacing: 0.06em;
-}
+} */
 
 .nav-text,
 .mail-tel-text {
