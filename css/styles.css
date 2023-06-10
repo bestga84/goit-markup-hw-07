@@ -566,7 +566,7 @@ ol {
 
 
 /* ===== Постійні клієнти ===== Початок */
-.company-flex {
+/* .company-flex {
     display:flex;
     flex-wrap: wrap;
 }
@@ -581,10 +581,10 @@ ol {
 }
 .icon-client-list:not(:nth-child(6n)) {
     margin-right: 30px;
-}
+} */
 
 
-.client-hover-focus {
+/* .client-hover-focus {
     display: flex;
     fill: var(--border-client);
     width: 100%;
@@ -605,9 +605,9 @@ ol {
 .client-hover-focus:hover  .icon-client,
 .client-hover-focus:focus  .icon-client {
     fill: var(--second-color-font);
-}
+} */
 
-.icon-client {
+/* .icon-client {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -634,7 +634,7 @@ ol {
 .icon-client-tag-line {
     width: 94px;
     height: 44px;
-}
+} */
 
 /* ===== Постійні клієнти ===== Кінець */
 
