@@ -45,10 +45,10 @@ ol {
 } */
 
 
-.header-container {
+/* .header-container {
     display: flex;
     align-items: center;
-}
+} */
 
 
 .hero-padding {
@@ -81,15 +81,15 @@ ol {
     border-radius: 4px;
 } */
 
-.navigation-list {
+/* .navigation-list {
     display: flex;
     align-items: center;
     margin-left: auto;
-}
+} */
 
-.nav-right {
+/* .nav-right {
     margin-left: 40px;
-}
+} */
 
 
 .section-about {
@@ -120,18 +120,18 @@ ol {
     overflow: hidden;
 } */
 
-.logo-margin {
+/* .logo-margin {
     margin-right: 93px;
-  }
+  } */
 
-.nav-list-item:not(:last-child) {
+/* .nav-list-item:not(:last-child) {
     margin-right: 50px;
-}
+} */
 
 
-.contact-number {
+/* .contact-number {
     margin-left: 0;
-}
+} */
 
 .logo-footer {
     display: inline-block;
@@ -302,17 +302,16 @@ ol {
 /* Navigation */
 
 
-.logo {
+/* .logo {
     color: var(--color-logo);
-}
+} */
 
-.logo-part,
-.current {
+/* .logo-part, */
+/* .current {
     color: var(--second-color-font);
+} */
 
-}
-
-.menu-link {
+/* .menu-link {
     position: relative;
 }
 .menu-link::after {
@@ -326,22 +325,22 @@ ol {
 
     background: #2196F3;
     border-radius: 2px;
-}
+} */
 
-.logo,
+/* .logo,
 .logo-part {
     font-family: var(--second-font);
     font-weight: 700;
     font-size: 26px;
     line-height: 1.19;
     letter-spacing: 0.03em;
-}
+} */
 
-.nav-text {
+/* .nav-text {
     color: var(--primary-color-font);
-}
+} */
 
-.nav-list-link {
+/* .nav-list-link {
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -349,10 +348,10 @@ ol {
 .nav-list-link:focus {
     color: var(--second-color-font);
     cursor: pointer;
-}
+} */
 
 
-.nav-base-text {
+/* .nav-base-text {
     display: block;
     padding-top: 32px;
     padding-bottom: 32px;
@@ -360,20 +359,20 @@ ol {
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
-}
+} */
 
-.mail-tel-text,
+/* .mail-tel-text, */
 .paragraph-text {
     color: var(--paragraph-color-font);
 }
 
 
 /* ==== Іконка в навігації ==== Початок */
-.nav-icon {
+/* .nav-icon {
     fill: currentColor;
 
     margin-right: 10px;
-}
+} */
 /* ==== Іконка в навігації ==== Кінець */
 
 
@@ -397,16 +396,16 @@ ol {
 }
 
 
-.header-bg-color,
+/* .header-bg-color, */
 .section-buzy-bg-color,
 .portfolio-bg-color,
 .portfolio-fon {
     background-color: var(--hero-color-font);
 }
 
-.header-bg-color {
+/* .header-bg-color {
     border-bottom: 1px solid #ECECEC;;
-}
+} */
 
 .pesron-bg-color,
 .portfolio-bg-color,
