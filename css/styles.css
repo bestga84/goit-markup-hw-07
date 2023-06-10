@@ -385,7 +385,7 @@ ol {
     padding-bottom: 32px;
 }
 
-.hero-color-text,
+/* .hero-color-text, */
 .logo-second,
 .text-addres {
     color: var(--hero-color-font);
@@ -414,21 +414,21 @@ ol {
     background-color: var(--hero-color-font);
 }
 
-.hero-text {
+/* .hero-text {
     font-weight: 900;
     font-size: 44px;
     line-height: 1.36;   
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
-}
+} */
 
-.hero-align {
+/* .hero-align {
     margin-bottom: 30px;
     max-width: 680px;
     margin-left: auto;
     margin-right: auto;
-}
+} */
 
 .hero-btn {
     background-color: var(--second-color-font);
