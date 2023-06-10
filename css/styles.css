@@ -96,14 +96,14 @@ ol {
     background-color: var(--hero-color-font);
 } */
 
-.section {
+/* .section {
     padding-top: 94px;
     padding-bottom: 94px;
-}
+} */
 
-.section-buzy {
+/* .section-buzy {
     background-color: var(--hero-color-font);
-}
+} */
 
 /* .visually-hidden {
     position: absolute;
@@ -168,7 +168,7 @@ ol {
     height: 70px;
 } */
 
-.section-buzy__image,
+/* .section-buzy__image, */
 .person-img,
 .portfolio-img {
     display: block;
@@ -201,12 +201,12 @@ ol {
     color: var(--hero-color-font);
 }
 
-.section-buzy__list {
+/* .section-buzy__list {
     display: flex;
     flex-wrap: wrap;
-}
+} */
 
-.section-buzy__item {
+/* .section-buzy__item {
     flex-basis: calc((100% - 30px*2) / 3);
     margin-bottom: 30px;
 }
@@ -217,14 +217,14 @@ ol {
 
 .section-buzy__item:nth-last-child(-n + 3) {
     margin-bottom: 0;
-}
+} */
 
 
 /* ==== Початок написів в секції "Чим ми займаємось" ==== */
-.section-buzy__thumb {
+/* .section-buzy__thumb {
     position: relative;
-}
-.section-buzy__text-thumb {
+} */
+/* .section-buzy__text-thumb {
     display: inline-block;
     position: absolute;
     content: '';
@@ -233,8 +233,8 @@ ol {
     width: 368px;
     height: 70px;
     background-color: rgba(47, 48, 58, 0.8);
-}
-.section-buzy__description {
+} */
+/* .section-buzy__description {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -246,7 +246,7 @@ ol {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--hero-color-font);    
-}
+} */
 /* ==== Кінець написів в секції "Чим ми займаємось" ==== */
 
 
